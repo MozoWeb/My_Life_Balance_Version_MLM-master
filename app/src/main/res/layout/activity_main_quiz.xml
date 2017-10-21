@@ -105,10 +105,10 @@
         android:textColor="@color/pink"
         android:layout_weight="1"
         android:layout_marginTop="@dimen/_40sdp"
-        android:background="@drawable/button_selector"
+        android:background="#d291ff"
         android:textAllCaps="false"
-        android:textSize="@dimen/_16sdp"
-        android:padding="@dimen/_16sdp"
+        android:textSize="@dimen/_18sdp"
+        android:padding="@dimen/_1sdp"
         style="?android:attr/buttonBarButtonStyle"
     />
 

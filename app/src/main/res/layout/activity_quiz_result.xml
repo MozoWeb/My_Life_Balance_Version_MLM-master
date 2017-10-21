@@ -68,7 +68,7 @@
             android:textColor="@color/pink"
             android:text="@string/retake_quiz"
             android:layout_marginTop="@dimen/_16sdp"
-            android:background="@drawable/button_selector"
+            android:background="#d291ff"
             android:textAllCaps="false"
             android:textSize="@dimen/_16sdp"
             android:padding="8dp"/>
